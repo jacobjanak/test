@@ -42,10 +42,10 @@
         <icon src="res/icon/android/icon-48-mdpi.png" density="mdpi" />
         <icon src="res/icon/android/icon-72-hdpi.png" density="hdpi" />
         <icon src="res/icon/android/icon-96-xhdpi.png" density="xhdpi" />
-        <splash src="res/splash.png" density="ldpi" />
-        <splash src="res/splash.png" density="mdpi" />
-        <splash src="res/splash.png" density="hdpi" />
-        <splash src="res/splash.png" density="xhdpi" />
+        <splash src="res/splash.jpg" density="ldpi" />
+        <splash src="res/splash.jpg" density="mdpi" />
+        <splash src="res/splash.jpg" density="hdpi" />
+        <splash src="res/splash.jpg" density="xhdpi" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />

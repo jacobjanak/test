@@ -18,3 +18,4 @@ platforms/ios/.staging
 platforms/ios/cordova/console.log
 
 .idea/*
+.DS_Store

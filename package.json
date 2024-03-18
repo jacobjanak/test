@@ -26,8 +26,7 @@
       "cordova-plugin-network-information": {},
       "cordova-plugin-actionsheet": {},
       "cordova-plugin-spinner-dialog": {},
-      "cordova-plugin-splashscreen": {},
-      "cordova-plugin-document-viewer": {}
+      "cordova-plugin-splashscreen": {}
     },
     "platforms": [
       "browser",

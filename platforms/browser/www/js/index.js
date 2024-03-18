@@ -58,7 +58,7 @@ function onOffline() {
 }
 
 function openBrowser() {
-   var url = 'https://dusthqdenevents.frb.io/';
+   var url = 'https://mrpickles.orderexperience.net/61a8e4a195b701075d8b457c/menu';
    var target = '_self';
    var options = "location=no,toolbar=no"
    var ref = cordova.InAppBrowser.open(url, target, options);
